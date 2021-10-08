@@ -1,0 +1,16 @@
+.App {
+  background-color: #2debe2;
+  height: 100vh;
+}
+
+.catalogue-title {
+  text-align: center;
+  padding: 30px;
+  color: #727272;;
+}
+
+.cart-title {
+  text-align: center;
+  margin-top: 50px;
+  color: #7b7685;
+}

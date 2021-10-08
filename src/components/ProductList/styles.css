@@ -1,0 +1,27 @@
+.list-product {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.product {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 1px #c9c7c705;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #ddddddad;
+    border-radius: 32px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}  
+
+.product-title {
+    text-transform: uppercase;
+    font-style: italic;
+    color: blue;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
