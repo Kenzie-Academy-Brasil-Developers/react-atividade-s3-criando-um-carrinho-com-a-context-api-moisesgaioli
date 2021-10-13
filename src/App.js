@@ -1,4 +1,3 @@
-
 import './App.css';
 import { CatalogueProvider } from './components/providers/catalogue';
 import { CartProvider } from './components/providers/cart';
